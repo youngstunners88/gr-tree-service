@@ -1,2 +1,4 @@
-# gr-tree-service
-Website for GR Tree Service - Professional services
+# GR Tree Service
+**Specialty:** Tree services
+
+Professional tree care company.
